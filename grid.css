@@ -91,5 +91,16 @@
 	float: none;
 	
 }
-
+.topo{
+	text-align: center;
+}
+.topo li a{
+	/*border: 1px solid goldenrod;*/
+	width: 220px;
+	padding: 10px;
+}
+/*banner*/
+.banner h1{
+font-size: 55px;
+}
 }
