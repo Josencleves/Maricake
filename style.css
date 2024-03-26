@@ -83,6 +83,7 @@ body{
 }
 .container{
     text-align: center;
+
 }
 /*combos de petiscos*/
 
@@ -161,7 +162,6 @@ body{
     
 }
 ::-webkit-scrollbar-thumb{
-    height: 10px;
     background-color: var(--cor2);
     border-radius: 5px;
 }
